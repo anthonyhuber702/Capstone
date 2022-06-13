@@ -5,7 +5,7 @@ This is my capstone final titled Mock Banking Site(With ATM Intergration). You c
 I decided to build this just for fun. I wanted something that the user can interact with in a simple manner.
 ## How to Run
 The files needed are Account.java, Checking.java, Savings.java, and ATM.java. The file you need to run is ATM.
-##Code I Am Proud Of 
+## Code I Am Proud Of 
 '''
 	    		 btYes.setOnAction(i -> {
 	    			 double d = Double.parseDouble(tfTransAmount.getText().toString());
