@@ -6,7 +6,7 @@ I decided to build this just for fun. I wanted something that the user can inter
 ## How to Run
 The files needed are Account.java, Checking.java, Savings.java, and ATM.java. The file you need to run is ATM.
 ## Code I Am Proud Of 
-'''
+```
 	    		 btYes.setOnAction(i -> {
 	    			 double d = Double.parseDouble(tfTransAmount.getText().toString());
 	    			  if(cmboFrom.getValue() == "Checking") {
@@ -34,7 +34,7 @@ The files needed are Account.java, Checking.java, Savings.java, and ATM.java. Th
 	    			  			});	    					  
 	    				  }
 	    			  }
-'''
+```
 The main reason I am proud of this code is actually because it took me a while to get the combo boxes working, but once I figured it out I was able to make everything belond where it needed to be and work properly. All the problems I ran into were relatively small but required a little bit of thinking, and even if they were easy fixes, I am proud of being able to fix every bug I ran into.
 ## Contributors
 The biggest contributors to my project were Rich Mallek, Jason Adams, and of course, Javadocs!
